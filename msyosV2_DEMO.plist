@@ -31,15 +31,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.msyos.enterprise.msyos</string>
+				<string>com.msyos.enterprise.demo</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
                 		<key>subtitle</key>
-                		<string>惠民通</string>
+                		<string>智慧三明</string>
 				<key>title</key>
-				<string>惠民通</string>
+				<string>智慧三明</string>
 			</dict>
 		</dict>
 	</array>
